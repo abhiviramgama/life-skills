@@ -1,4 +1,4 @@
-# Atomic Habits
+# Tiny Habits
 
 ---
 
